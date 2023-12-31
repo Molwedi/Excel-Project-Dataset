@@ -1,7 +1,7 @@
 # Bike Sales Dashboard
 
 Recreated a dynamic Excel dashboard for tracking bike sales. Features two line charts,
-a bar chart, and three slicers for intiutive data exploration.
+a bar chart, and three slicers for intuitive data exploration.
 Excel skills at play for impactful data visualozation. Explore the trends and insights effortlessly
 
 ## Charts Included
